@@ -11,5 +11,6 @@
     color: #FFFFFF;
     list-style: none;
     padding: 0;
+    overflow-x:hidden;
 }
 
