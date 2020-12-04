@@ -1,5 +1,5 @@
 .intro__list{
-    width: 690px;
+    max-width: 690px;
     height: 90px;
     left: 148px;
     top: 1572px;
@@ -11,6 +11,7 @@
     color: #FFFFFF;
     list-style: none;
     padding: 0;
-    overflow-x:hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 

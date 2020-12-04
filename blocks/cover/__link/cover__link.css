@@ -9,6 +9,8 @@
   align-items: center;
   width: 100%;
   min-height: 740px;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .cover__link:before {
