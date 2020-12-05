@@ -1,9 +1,8 @@
 .intro__list{
     max-width: 690px;
-    height: 90px;
     left: 148px;
     top: 1572px;
-    font-family: Inter;
+    font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 12px;
@@ -11,7 +10,5 @@
     color: #FFFFFF;
     list-style: none;
     padding: 0;
-    overflow-x: hidden;
-    overflow-y: hidden;
 }
 
