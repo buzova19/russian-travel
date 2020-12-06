@@ -1,6 +1,7 @@
 .cover__link {
   background-image: url(../../../images/cover-trains.jpg);
   text-decoration: none;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
